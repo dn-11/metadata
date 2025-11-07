@@ -1,0 +1,9 @@
+$ORIGIN .
+in-addr.arpa                    300     IN      SOA     root.dn11 hostmaster.dn11 2025102501 60 60 604800 60
+in-addr.arpa                    300     IN      NS      172.16.255.53
+39.16.172.in-addr.arpa          60      IN      NS      ns.teno.dn11
+86.16.172.in-addr.arpa          60      IN      NS      ns.teno.dn11
+20.16.172.in-addr.arpa          60      IN      NS      ns1.woshiluo.dn11
+18.10.in-addr.arpa              60      IN      NS      ns1.potat0.dn11
+4.16.172.in-addr.arpa           60      IN      NS      ns2.baimeow.dn11
+14.16.172.in-addr.arpa          60      IN      NS      ns2.baimeow.dn11
